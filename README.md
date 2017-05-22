@@ -759,6 +759,7 @@ Here are some companies/projects using Swagger Codegen in production. To add you
 - [LXL Tech](http://lxltech.com)
 - [Lyft](https://www.lyft.com/developers)
 - [MailMojo](https://mailmojo.no/)
+- [Metadev](https://metadev.pro/)
 - [Mindera](http://mindera.com/)
 - [Mporium](http://mporium.com/)
 - [Neverfail](https://neverfail.com/)
